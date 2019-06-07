@@ -150,5 +150,5 @@ b. We'll hold this vision up as a reminder of our shared goals to orient our lea
  + Clinicians' availability.
 
 4. All team members will receive a post-session email the week after each session from the _Modeling to Learn_ staff, with Done and Do reminders and links to the necessary resources; and another pre-session email the week of the upcoming session.  
-
+  
 ## Until next time, thank you for _Modeling to Learn_!
