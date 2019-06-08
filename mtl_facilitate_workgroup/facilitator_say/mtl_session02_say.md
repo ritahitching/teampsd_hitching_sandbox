@@ -44,7 +44,7 @@ Hello! I'm __________ and I'm __________. Navigating to the Learner See Guide fo
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> ___00:10-00:15___
 
 ## Participatory Learning from Simulation
-This graphic illustrates how **_Modeling to Learn_** can helpe us to get more of our Veterans to the right right and the right time to meet their needs using participatory learning from simulation.
+This graphic illustrates how **_Modeling to Learn_** can help us to get more of our Veterans to the right place and the right time to meet their needs using participatory learning from simulation.
 - We use the data user interface (UI) to look back at team trends over the past two years.
 - We review the last two years of data to see *what is* in our team now. 
 - Backward looking data review is limited for guiding effective change.
@@ -61,8 +61,9 @@ This graphic illustrates how **_Modeling to Learn_** can helpe us to get more of
 
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> ___00:15-00:20___
 
-**Who would like to "drive" today?** [Recommend the Team Lead]
+### Who would like to "drive" today?** [Recommend the Team Lead]  
 
+## *MTL* on BISL  
 
 ### 1. Using Internet Explorer browser, navigate to mtl.how/data.  
 
@@ -75,7 +76,7 @@ This graphic illustrates how **_Modeling to Learn_** can helpe us to get more of
    d. On the landing page, select your VISN **______________**. On the next page, select your team's facility **______________**.  
     + A web version of Excel will open on your screen, showing charts from your facility's data.  
 
-### 2. This splashpage is designed so see trends relevant to your team vision of **__________________________** for the last two years.  Let's explore the information available in the BISL sharepoint splash page:  
+### 2. This splash page is designed so see trends relevant to your team vision of **__________________________** for the last two years.  Let's explore the information available in the BISL sharepoint splash page:  
 
    a. There are two sets scroll bars on the right. The outer one allows the user to scroll up and down the page, where the inner scroll bar scrolls within the graphs on the page.
 
@@ -108,7 +109,7 @@ ___ | Meas| Standaridzed symptom scales, such as the PHQ-9 for depression or PCL
 
 #### All data is sortable and filterable so that the team can transparently see how the charting you do all day becomes VA data. 
 
-1. Last meeting ________________________ [team members' names] mentioned concerns with **__________________________ [themes from session 1 team vision].** 
++ Last meeting ________________________ [team members' names] mentioned concerns with **__________________________ [themes from session 1 team vision].** 
 
 Time Stamp | Team Learning Priorities | Script for Session 2
 -- | -- | --
@@ -116,7 +117,7 @@ Time Stamp | Team Learning Priorities | Script for Session 2
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>  | **Themes from the team vision to be highlighted.** | **Team Data to Prioritize with the Team.**
 Keep an eye on time |  |  |   
 
-2. For each "viz" chart, you can filter on location and clinic name (upper left) to zoom in to the **clinic** or **VISTA clinic/"grid"**. [During intersession prep facilitator should fill-in the rankings of the highest priority viz that should be emphasized during the team meeting. Follow the team's lead "live" during the meeting, but be prepared.]
++ For each "viz" chart, you can filter on location and clinic name (upper left) to zoom in to the **clinic** or **VISTA clinic/"grid"**. [During intersession prep facilitator should fill-in the rankings of the highest priority viz that should be emphasized during the team meeting. Follow the team's lead "live" during the meeting, but be prepared.]  
    
 Rank | viz Options |  |  
 -- | -- | -- | 
@@ -150,8 +151,8 @@ ___ | *vizMeas* | See trends in what standard measures the facility is using on 
   c. Note that this will pull all clinics used in the last two years (including de-activated clinics). You can see the de-activated clinics in column I.  
 
 ### **You already have a fresh data UI file to work with already in your team data folder.**  
-  a. It takes some time to stitch together a "hyper-local" query tailored to your team from the VA Corporate Data Warehouse.  
-  b. On average (depending on the size of your team) it may take 15 minutes or so for your team data UI to pull in fresh data. And, Microsoft Excel will be unresponsive until the data UI has finished pulling in your data.  
+  + It takes some time to stitch together a "hyper-local" query tailored to your team from the VA Corporate Data Warehouse.  
+  + On average (depending on the size of your team) it may take 15 minutes or so for your team data UI to pull in fresh data. And, Microsoft Excel will be unresponsive until the data UI has finished pulling in your data.  
   
 - **Prior to today's session, __________________ [Team Lead's name] worked with us to build an initial team dataset.
   
