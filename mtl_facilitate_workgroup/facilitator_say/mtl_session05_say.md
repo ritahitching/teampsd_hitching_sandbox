@@ -70,7 +70,7 @@ d. An important thing to note is that this application has a responsive web desi
 
 a. At the top left is the *MTL* logo. That’s on each page, and it works as a Home button (just like the button next to it).
 
-b. Scaning across that row you see your Team name followed by five navigation icons: Home, Play, Chat, Help, and Logoff. These are pretty self-explanatory, but I would highlight the Logoff button. It's always best to log off when you’re finished with a session. Then at the far right along the top is your name and picture (if you’ve uploaded it).
+b. Scanning across that row you see your Team name followed by five navigation icons: Home, Play, Chat, Help, and Logoff. These are pretty self-explanatory, but I would highlight the Logoff button. It's always best to log off when you’re finished with a session. Then at the far right along the top is your name and picture (if you’ve uploaded it).
    
 c. Below that row is the *MTL* welcome text, and under that there are 3 section headings in blue bars: Session; Experiment Maintenance; and Team Data Menu Maintenance. Whenever you see blue bars like these with a white triangle on the right, that means those sections can be expanded and collapsed by clicking on the bar.
   
