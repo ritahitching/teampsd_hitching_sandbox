@@ -32,5 +32,8 @@ output:
 
 ### TeamPSD LucidChart Shapes [Librabry](https://app.lucidchart.com/invitations/accept/54dbd961-4474-4eaa-b600-f8236e3b7e9e)
 
+### TeamPSD LucidChart Shapes & Color 
+<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/preset_team_psd_shapes_fonts_colors_library.png" height = "412" width = "584">
+
 ## Watch YouTube Video How to Creat a Flowmap on LucidChart
-[<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/youtube_create_flow_map.png" height = "412" width = "584">](https://youtu.be/4Ihee2A7seE)
+[<img src =https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/youtube_create_flow_map.png" height = "412" width = "584">](https://youtu.be/4Ihee2A7seE)
