@@ -30,5 +30,7 @@ output:
 
 ### TeamPSD LucidChart Resources [Folder](https://app.lucidchart.com/documents#/documents?folder_id=218339495)
 
+### TeamPSD LucidChart Shapes [Librabry](https://app.lucidchart.com/invitations/accept/54dbd961-4474-4eaa-b600-f8236e3b7e9e)
+
 ## Watch YouTube Video How to Creat a Flowmap on LucidChart
 [<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/youtube_create_flow_map.png" height = "412" width = "584">](https://youtu.be/4Ihee2A7seE)
