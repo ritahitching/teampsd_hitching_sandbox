@@ -1,7 +1,7 @@
 ---
 title: "LucidChart Integration Issues"
 author: "TeamPSd RH"
-date: "May 20, 2020"
+date: "June 19, 2020"
 release: "Team PSD 2.0"
 output: 
   github_document: default
@@ -22,21 +22,13 @@ output:
 3. Guidance on flowmaps and video guides available on [YouTube](https://www.youtube.com/user/LZPhD/videos)
 
 ## Flowmaps
-### Team PSD Brand Control Flowmap
-<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/team_psd_version_control_flowmap.png"
-     height = "500" width = "1000">  
+### Team PSD [Flowmap Map](https://app.lucidchart.com/documents/edit/aa7dfa66-4d3d-43df-b350-db1a349f9a8d/0_0?beaconFlowId=C8BD8BAFC559D61E)
      
-### Team PSD Dynamic Preset Library - Shapes, Fonts, Colors 
-<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/preset_team_psd_shapes_fonts_colors_library.png"
-     height = "442" width = "560">  
+### TeamPSD How to Make a [Flowmap](https://app.lucidchart.com/invitations/accept/7908cdba-02e3-49ba-a57b-f39ddc3434c4)
      
-### Team PSD Basic Flowmap
-<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/team_psd_basic_flowmap.png"
-     height = "412" width = "584">  
-     
-### MTL Basic Flowmap
-<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/mtl_basic_flowmap.png"
-     height = "412" width = "584">  
-     
+### TeamPSD Core Template [Flowmap](https://app.lucidchart.com/invitations/accept/acc2b45c-2fb9-40ca-a897-6bb4c61fb275)
+
+### TeamPSD LucidChart Resources [Folder](https://app.lucidchart.com/documents#/documents?folder_id=218339495)
+
 ## Watch YouTube Video How to Creat a Flowmap on LucidChart
 [<img src = "https://github.com/ritahitching/teampsd_hitching_sandbox/blob/master/resources/design/lucidchart/images/youtube_create_flow_map.png" height = "412" width = "584">](https://youtu.be/4Ihee2A7seE)
